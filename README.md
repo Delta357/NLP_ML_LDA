@@ -148,9 +148,20 @@ jupyter notebook
 
 | Dataset               | Link                                                 |
 | ----------------- | ---------------------------------------------------------------- |
-| Depression and Anxiety in Twitter| https://www.kaggle.com/datasets/stevenhans/depression-and-anxiety-in-twitter-id?select=datd_rand.csv|
-| Email Spam Classification | https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv|
-| Twitter Sentiment Analysis |https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis |
+|Depression and Anxiety in Twitter| https://www.kaggle.com/datasets/stevenhans/depression-and-anxiety-in-twitter-id?select=datd_rand.csv|
+|Email Spam Classification | https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv|
+|Twitter Sentiment Analysis |https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis |
+|Amazon reviews | https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews?select=amazon_review_polarity_csv.tgz|
+|Amazon Fine Food Reviews |https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?select=hashes.txt |
+|Amazon Product Reviews |https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset |
+|Medium Articles |https://www.kaggle.com/datasets/fabiochiusano/medium-articles/code |
+|Youtube Statistics| https://www.kaggle.com/datasets/advaypatil/youtube-statistics?select=videos-stats.csv|
+|Spotify App Reviews |https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022 |
+|Google Play Store Reviews |https://www.kaggle.com/datasets/prakharrathi25/google-play-store-reviews |
+|COVID-19 All Vaccines Tweets | https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets|
+|Stock Market Tweet | Sentiment Analysis lexicon |https://www.kaggle.com/datasets/utkarshxy/stock-markettweets-lexicon-data |
+|Stock News Sentiment Analysis(Massive Dataset)| https://www.kaggle.com/datasets/avisheksood/stock-news-sentiment-analysismassive-dataset|
+
 
 ## Variáveis de Ambiente
 
