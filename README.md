@@ -1,4 +1,4 @@
-# NLP_ML_Models
+# Processamento linguagem natural - Extração de tópicos
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -27,8 +27,6 @@
 
 ![Logo](https://img.freepik.com/vetores-gratis/diagrama-de-circuito-de-tecnologia-azul-com-luzes-de-linha-brilhante_1017-17266.jpg?w=740&t=st=1686248413~exp=1686249013~hmac=59283fb41071ce03b79ae29079985dcd33a91aaece8b095f1ba9e50c938cdf35)
 
-Um estudo dos modelos de processamento de linguagem natural utilizando machine learning e deep learning
-
 ## Introdução
 O processamento de linguagem natural (PLN) tem se tornado cada vez mais relevante com o avanço da inteligência artificial. Com a capacidade de compreender e gerar linguagem humana, o PLN desempenha um papel fundamental em várias aplicações, desde assistentes virtuais até sistemas de tradução automática. Neste estudo, exploraremos diferentes modelos de PLN baseados em técnicas de machine learning e deep learning, buscando compreender suas vantagens e desafios.
 
@@ -51,19 +49,6 @@ C) Redes neurais convolucionais (CNNs): Embora as CNNs sejam frequentemente asso
 D) Modelos de aprendizado profundo para sequências: Além das RNNs, existem outros modelos de aprendizado profundo projetados especificamente para processar sequências, como as Redes Neurais de Transformadores (Transformer Neural Networks). Esses modelos combinam elementos das RNNs com a arquitetura de transformers para melhorar o desempenho em tarefas de NLP.
 
 E) Modelos de aprendizado de máquina clássicos: Além dos modelos de aprendizado profundo, também existem algoritmos clássicos de aprendizado de máquina que podem ser usados para processamento de linguagem, como Naive Bayes, Máquinas de Vetores de Suporte (SVM) e Árvores de Decisão.
-
-# Modelos de words embeddings
-
-Os word embeddings que são amplamente utilizados em processamento de linguagem natural. Esses modelos são projetados para representar palavras como vetores numéricos em um espaço vetorial contínuo, onde palavras semanticamente similares são mapeadas para pontos próximos. Alguns dos modelos de word embeddings mais populares são:
-Word2Vec: O Word2Vec é um modelo que aprende representações vetoriais densas para palavras, treinando uma rede neural em grandes quantidades de texto não rotulado. Ele oferece duas abordagens principais: Skip-gram e Continuous Bag-of-Words (CBOW). O Skip-gram prevê palavras de contexto dada uma palavra de entrada, enquanto o CBOW prevê uma palavra de entrada dado um contexto.
-
-A) GloVe: O GloVe (Global Vectors for Word Representation) é um modelo de word embedding que combina a contagem global de co-ocorrência de palavras com técnicas de fatoração de matriz. Ele utiliza estatísticas de co-ocorrência para capturar relações semânticas e sintáticas entre palavras.
-
-B) FastText: O FastText é uma extensão do Word2Vec que também leva em consideração subpalavras (n-gramas) durante o treinamento. Isso permite que o modelo lide melhor com palavras desconhecidas ou palavras fora do vocabulário.
-
-C) ELMo: O ELMo (Embeddings from Language Models) é um modelo de word embedding contextual que captura a semântica da palavra em diferentes contextos. Ele usa um modelo de linguagem pré-treinado para gerar representações vetoriais contextualizadas para palavras.
-
-D) BERT: O BERT (Bidirectional Encoder Representations from Transformers) é um modelo de linguagem pré-treinado baseado em transformers. Além de ser usado para tarefas de linguagem, o BERT também pode gerar word embeddings contextualizados que capturam as nuances semânticas das palavras em um contexto específico.
 
 # Modelos análise de tópicos nlp
 
